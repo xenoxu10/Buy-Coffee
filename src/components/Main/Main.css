@@ -1,0 +1,21 @@
+.innerform{
+    background-color: rgb(49, 32, 90);
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.formback{
+   color: white;
+   background-color: black;
+    height: 400px;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 50px;
+   
+
+}
+.button{
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
